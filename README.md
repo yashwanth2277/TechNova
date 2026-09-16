@@ -1,12 +1,12 @@
-# 🚀 TechNova
+#  TechNova
 
-## 👨‍💻 Team
+##  Team
 
-### 👑 Team Leader
+###  Team Leader
 
 **T. Yashwanth Kumar** — AI Engineer
 
-### 👥 Team Members
+###  Team Members
 
 | Name                  | Role                                                |
 | --------------------- | --------------------------------------------------- |
